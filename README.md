@@ -64,6 +64,10 @@
   <br>
 </p>
 
-<hr>                  
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+
+
+<hr>
+
+[![An image of @jain131102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jain131102)](https://holopin.io/@jain131102)
+
+
