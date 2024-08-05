@@ -46,9 +46,9 @@
 <a href="https://dribbble.com/jain131102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jain131102" height="30" width="40" /></a>
 <a href="https://www.behance.net/sourabhmechnis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sourabhmechnis" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@sourabhjain1676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sourabh jain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jain131102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jain131102" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Sourabh131102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jain131102" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sourabh_131102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sourabh_131102" height="30" width="40" /></a>
- <a href="https://www.hackerearth.com/sourabh.jain131102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sourabh.jain131102" height="30" width="40" /></a> 
+ <a href="https://www.hackerearth.com/@sourabh.jain131102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sourabh.jain131102" height="30" width="40" /></a> 
   <a href="https://discord.gg/sourabhjain." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sourabhjain." height="30" width="40" /></a>
 </p>
 
