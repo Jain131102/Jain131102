@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Cap ( Like smartphone , smart watch then why not smart cap :))**
+- 🔭 I’m currently working on ** SMS SPAM Detection System using NLP **
 
 - 🌱 I’m currently learning **DSA using Java**
 
